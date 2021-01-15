@@ -11,8 +11,13 @@
 }
 .ellipse {
 }
+.image {
+}
 .primary_button {
   color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 ._形状 {
 }
@@ -69,6 +74,10 @@
 .arrow {
 }
 .text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
   color:#000000;
   text-align:left;
 }
